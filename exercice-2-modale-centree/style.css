@@ -13,17 +13,9 @@ body {
     padding-top: 80px;
     border-radius: 8px;
     position: fixed;
-    position: fixed;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
     margin: auto;
-
-    /* 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-     */
   }

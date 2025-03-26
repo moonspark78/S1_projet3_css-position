@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #2ecc71;
+    color: white;
+    padding: 1rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .main-content {
+    margin-top: 30px;
+    padding: 2rem;
+    height: 150vh;
+  }
+  
